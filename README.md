@@ -1,9 +1,6 @@
-
-
-
 # SolArbHunter
 
-A high-performance Solana arbitrage bot designed for discovering and executing profitable trading opportunities across multiple decentralized exchanges (DEXs). Built with both off-chain and on-chain components to ensure accurate and reliable swaps.
+A high-performance Solana arbitrage bot designed for discovering and executing profitable trading opportunities across multiple DEXs. Built with both off-chain and on-chain components to ensure accurate and reliable swaps.
 
 ---
 
